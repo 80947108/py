@@ -25,19 +25,24 @@ class Spider(Spider):  # 元类 默认的元类 type
     def homeContent(self, filter):
         result = {}
         cateManual = {
-            "七米蓝": "https://al.chirmyram.com",
-            "杜比": "https://dubi.tk",
-            "神器云": "https://al.chirmyram.com",
-            "甜蜜2": "https://alist3.kebedd69.repl.co",
-            "xiaoya2": "http://myalist.site",
-            "xiaoya3": "http://alist.xiaoya.pro",
-            "甜蜜": "https://alist.kebedd69.repl.co",
-            "梅花盘": "https://pan.142856.xyz/OneDrive",
-            "触光云盘": "https://pan.ichuguang.com",
-            "小孟资源": "https://8023.haohanba.cn/小孟丨资源大合集/无损音乐",
-            "资源小站": "https://960303.xyz/ali",
-            "轻弹浅唱": "https://g.xiang.lol",
-            "小兵组网盘视频": "https://6vv.app"
+    "🦀9T": "https://drive.9t.ee",
+    "🦀木偶": "https://abnormalize.icu/",
+    "🚆梅花盘": "https://pan.142856.xyz",
+    "📀小光盘": "https://alist.xiaoguanxiaocheng.life",
+    "🎢轻弹浅唱": "https://alist.youte.ml",
+    "🌊七米蓝": "https://al.chirmyram.com",
+    "☃姬路白雪": "https://pan.jlbx.xyz",
+    "🥼帅盘": "https://hi.shuaipeng.wang",
+    "🐉神族九帝": "https://alist.shenzjd.com",
+    "💾DISK": "http://124.222.140.243:8080",
+    "🌨神器云": "https://quanzi.laoxianghuijia.cn",
+    "✨星梦": "https://pan.bashroot.top",
+    "🌊小江": "https://dyj.me",
+    "💫触光": "https://pan.ichuguang.com",
+    "🎡资源小站": "https://960303.xyz/",
+    "🐝杜比": "https://dubi.tk",
+    "小雅": "http://alist.xiaoya.pro",
+    "无损音乐": "https://960303.xyz"
         }
         classes = []
         for k in cateManual:
