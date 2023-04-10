@@ -1227,7 +1227,8 @@
             "type": 0,
             "url": "https://raw.iqiq.io/80947108/py/main/live.txt",
             "playerType": 1,
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+            "epg" : "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo" : "https://epg.112114.xyz/logo/{name}.png"
         }
     ],
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
