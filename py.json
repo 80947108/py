@@ -131,6 +131,36 @@
             "ext": "https://raw.iqiq.io/80947108/py/main/py/py_ikan.py"
         },
         {
+            "key": "py_kuaikan",
+            "name": "快看",
+            "type": 3,
+            "api": "py_kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.iqiq.io/80947108/py/main/py/py_kuaikan.py"
+        },
+        {
+            "key": "py_star",
+            "name": "星光影视",
+            "type": 3,
+            "api": "py_star",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.iqiq.io/80947108/py/main/py/py_star.py"
+        },
+        {
+            "key": "py_cup",
+            "name": "茶杯狐",
+            "type": 3,
+            "api": "py_cup",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.iqiq.io/80947108/py/main/py/py_cup.py"
+        },
+        {
             "key": "py_libvio",
             "name": "libvio",
             "type": 3,
