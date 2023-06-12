@@ -1,116 +1,6 @@
 {
     "sites": [
         {
-            "key": "py_cctvzh",
-            "name": "📺央视综合 py",
-            "type": 3,
-            "api": "py_cctv",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_cctvzh.py"
-        },
-        {
-            "key": "py_cctvxw",
-            "name": "📺央视新闻 py",
-            "type": 3,
-            "api": "py_cctv",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_cctvxw.py"
-        },
-        {
-            "key": "py_cctvzy",
-            "name": "📺央视综艺 py",
-            "type": 3,
-            "api": "py_cctv",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_cctvzy.py"
-        },
-        {
-            "key": "py_cctvdy",
-            "name": "📺央视电影 py",
-            "type": 3,
-            "api": "py_cctv",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_cctvdy.py"
-        },
-        {
-            "key": "py_cctvty",
-            "name": "📺央视体育 py",
-            "type": 3,
-            "api": "py_cctv",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_cctvty.py"
-        },
-        {
-            "key": "py_cctvfz",
-            "name": "📺央视法治 py",
-            "type": 3,
-            "api": "py_cctv",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_cctv.py"
-        },
-        {
-            "key": "py_cctvkj",
-            "name": "📺央视科教 py",
-            "type": 3,
-            "api": "py_cctv",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_cctvkj.py"
-        },
-        {
-            "key": "py_cctvyy",
-            "name": "📺央视音乐 py",
-            "type": 3,
-            "api": "py_cctv",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_cctvyy.py"
-        },
-        {
-            "key": "py_cctvse",
-            "name": "📺央视少儿 py",
-            "type": 3,
-            "api": "py_cctv",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_cctvse.py"
-        },
-        {
-            "key": "py_cctvny",
-            "name": "📺央视农业 py",
-            "type": 3,
-            "api": "py_cctv",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_cctvny.py"
-        },
-        {
-            "key": "py_cctvjs",
-            "name": "📺央视军事 py",
-            "type": 3,
-            "api": "py_cctv",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_cctvjs.py"
-        },
-        {
             "key": "py_kunyu77",
             "name": "酷云七七",
             "type": 3,
@@ -118,7 +8,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_kunyu77.py"
+            "ext": "./py/py_kunyu77.py"
         },
         {
             "key": "py_bilivd",
@@ -128,7 +18,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_bilivd.py"
+            "ext": "./py/py_bilivd.py"
         },
         {
             "key": "py_bilibili2",
@@ -138,7 +28,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_bilibili2.py"
+            "ext": "./py/py_bilibili2.py"
         },
         {
             "key": "py_bilibili3",
@@ -148,7 +38,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_bilibili3.py"
+            "ext": "./py/py_bilibili3.py"
         },
         {
             "key": "py_bilizb",
@@ -158,7 +48,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_bilizb.py"
+            "ext": "./py/py_bilizb.py"
         },
         {
             "key": "py_3qu",
@@ -168,7 +58,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_3qu.py"
+            "ext": "./py/py_3qu.py"
         },
         {
             "key": "py_cctv",
@@ -178,7 +68,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_cctv.py"
+            "ext": "./py/py_cctv.py"
         },
         {
             "key": "py_xmly",
@@ -188,7 +78,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_xmly.py"
+            "ext": "./py/py_xmly.py"
         },
         {
             "key": "py_jrskbs",
@@ -198,7 +88,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_jrskbs.py"
+            "ext": "./py/py_jrskbs.py"
         },
         {
             "key": "py_yytv",
@@ -208,7 +98,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_yytv.py"
+            "ext": "./py/py_yytv.py"
         },
         {
             "key": "py_qie",
@@ -218,7 +108,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_qie.py"
+            "ext": "./py/py_qie.py"
         },
         {
             "key": "py_czspp",
@@ -228,7 +118,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_czspp.py"
+            "ext": "./py/py_czspp.py"
         },
         {
             "key": "py_ikan",
@@ -238,37 +128,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_ikan.py"
-        },
-        {
-            "key": "py_kuaikan",
-            "name": "快看",
-            "type": 3,
-            "api": "py_kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_kuaikan.py"
-        },
-        {
-            "key": "py_star",
-            "name": "星光影视",
-            "type": 3,
-            "api": "py_star",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_star.py"
-        },
-        {
-            "key": "py_cup",
-            "name": "茶杯狐",
-            "type": 3,
-            "api": "py_cup",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_cup.py"
+            "ext": "./py/py_ikan.py"
         },
         {
             "key": "py_libvio",
@@ -278,7 +138,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_libvio.py"
+            "ext": "./py/py_libvio.py"
         },
         {
             "key": "py_cyys",
@@ -288,7 +148,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_cyys.py"
+            "ext": "./py/py_cyys.py"
         },
         {
             "key": "py_lezhutv",
@@ -298,7 +158,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_lezhutv.py"
+            "ext": "./py/py_lezhutv.py"
         },
         {
             "key": "py_zxzj",
@@ -308,7 +168,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_zxzj.py"
+            "ext": "./py/py_zxzj.py"
         },
         {
             "key": "py_voflix",
@@ -318,7 +178,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_voflix.py"
+            "ext": "./py/py_voflix.py"
         },
         {
             "key": "py_bilimd",
@@ -328,7 +188,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_bilimd.py"
+            "ext": "./py/py_bilimd.py"
         },
         {
             "key": "py_gimytv",
@@ -338,7 +198,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_gimytv.py"
+            "ext": "./py/py_gimytv.py"
         },
         {
             "key": "py_genmov",
@@ -348,7 +208,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_genmov.py"
+            "ext": "./py/py_genmov.py"
         },
         {
             "key": "py_huya",
@@ -358,7 +218,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_huya.py"
+            "ext": "./py/py_huya.py"
         },
         {
             "key": "py_douyu",
@@ -368,7 +228,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_douyu.py"
+            "ext": "./py/py_douyu.py"
         },
         {
             "key": "py_yixi",
@@ -378,7 +238,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_yixi.py"
+            "ext": "./py/py_yixi.py"
         },
         {
             "key": "py_freezb",
@@ -388,7 +248,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_freezb.py"
+            "ext": "./py/py_freezb.py"
         },
         {
             "key": "py_cokemv",
@@ -398,7 +258,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_cokemv.py"
+            "ext": "./py/py_cokemv.py"
         },
         {
             "key": "py_xmaomi",
@@ -408,7 +268,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_xmaomi.py"
+            "ext": "./py/py_xmaomi.py"
         },
         {
             "key": "py_if101",
@@ -418,7 +278,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_if101.py"
+            "ext": "./py/py_if101.py"
         },
         {
             "key": "py_gitcafe",
@@ -428,7 +288,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_gitcafe.py"
+            "ext": "./py/py_gitcafe.py"
         },
         {
             "key": "py_yiso",
@@ -438,7 +298,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_yiso.py"
+            "ext": "./py/py_yiso.py"
         },
         {
             "key": "py_zhaozy",
@@ -448,7 +308,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_zhaozy.py"
+            "ext": "./py/py_zhaozy.py"
         },
         {
             "key": "py_alist",
@@ -458,7 +318,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_alist.py"
+            "ext": "./py/py_alist.py"
         },
         {
             "key": "py_yunso",
@@ -468,7 +328,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_yunso.py"
+            "ext": "./py/py_yunso.py"
         },
         {
             "key": "py_pansou",
@@ -478,7 +338,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_pansou.py"
+            "ext": "./py/py_pansou.py"
         },
         {
             "key": "py_mac",
@@ -488,7 +348,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_aliss.py"
+            "ext": "./py/py_aliss.py"
         },
         {
             "key": "push_agent",
@@ -498,7 +358,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://raw.kgithub.com/80947108/py/main/py/py_ali.py"
+            "ext": "./py/py_ali.py"
         },
         {
             "key": "push_agent",
@@ -1232,6 +1092,5 @@
         }
     ],
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "warningText": "接口免费维护，请勿付费购买",
-    "spider": "https://raw.kgithub.com/80947108/py/main/jar/11031.jar;md5;ca07e741640debc3777bb9a227cfb884"
+    "spider": "./jar/11031.jar;md5;ca07e741640debc3777bb9a227cfb884"
 }
