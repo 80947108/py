@@ -1223,9 +1223,9 @@
     ],
     "lives": [
         {
-            "name": "live",
+            "name": "飞哥",
             "type": 0,
-            "url": "https://raw.kgithub.com/80947108/jiekou/main/live1.txt",
+            "url": "http://w.g9.pub:66/f/Xn3tO/live.txt",
             "playerType": 1,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
